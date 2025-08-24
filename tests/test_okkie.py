@@ -10,7 +10,7 @@ def test_sentence():
     assert "2" in result  # 'e' → 2
 
 def test_music():
-    assert okkie.to_okkie("music", concat=True) == "mokkie5sokkie3sokkie"
+    assert okkie.to_okkie("music", concat=True) == "mokkie5sokkie3cokkie"
 
 def test_programming():
     result = okkie.to_okkie("programming", concat=True)
