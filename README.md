@@ -1,6 +1,6 @@
 # okkie
 
-Convert text into **okkie language**, a playful word game:
+Convert text into **okkie language**:
 
 - Consonants → letter + "okkie"
 - Vowels → replaced by numbers:
